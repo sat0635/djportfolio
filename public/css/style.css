@@ -5,6 +5,11 @@
   font-weight: normal;
   font-style: normal; }
 
+.award {
+	width: 70%;
+	height: 70%;	
+	max-width: 500px;
+}
 /* =======================================================
 *
 * 	Template Style 
