@@ -5,10 +5,25 @@
   font-weight: normal;
   font-style: normal; }
 
+.rotate180 {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+        width: 90%;
+        height: 90%;
+        max-width: 600px;
+        max-height: 500px;
+
+
+}
+
 .award {
-	width: 70%;
-	height: 70%;	
-	max-width: 500px;
+	width: 90%;
+	height: 90%;
+	max-width: 600px;	
+	max-height: 500px;
 }
 /* =======================================================
 *
