@@ -24,6 +24,40 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
+                        <h2>삼성전자 주니어소프트웨어 창작대회 멘토링 <span>2019-07-29 ~ 2019-10-25 </span></h2>
+                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                   <Grid container spacing={3}>
+                       <Grid item>
+                          <Grid container justify="center" >
+
+                             <Grid  item xs={4} >
+                                <img className="award" src='images/award/ssw_picture.jpg'  />
+                             </Grid>
+
+                             <Grid  item xs={4}>
+                                <img className="award" src='images/award/ssw_picture2.jpg'  />
+                             </Grid>
+                             <Grid  item xs={4}>
+                                <img className="award" src='images/award/ssw_concept.jpg'  />
+                             </Grid>
+
+
+                          </Grid>
+                       </Grid>
+                    </Grid>
+                      </div>
+                    </div>
+                  </article>
+
+
+
+
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-2">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
                         <h2>2019 WSCE 스마트시티 메이커톤 <span>2019-09-06</span></h2>
                         <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
                    <Grid container spacing={3}>
