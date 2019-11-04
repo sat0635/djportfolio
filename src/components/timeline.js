@@ -20,12 +20,12 @@ export default class Timeline extends Component {
 
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-2">
+                      <div className="timeline-icon color-1">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2>삼성전자 주니어소프트웨어 창작대회 멘토링 <span>2019-07-29 ~ 2019-10-25 </span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+			<p>중학생 멘티님들이 구상한 주제인 "시각 장애인분들을 위한 스마트 신발, C.E.O.S"를 구현하는데 도움을 주었습니다. 안드로이드에서  목적지까지의 방향을 서버로 부터 받기 위해 Django 서버 프레임워크에서 REST API를 구현하는 방법을 멘토링 했습니다.</p>
                    <Grid container spacing={3}>
                        <Grid item>
                           <Grid container justify="center" >
@@ -58,8 +58,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>2019 WSCE 스마트시티 메이커톤 <span>2019-09-06</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>2019 WSCE 스마트시티 메이커톤(우수상)  <span>2019-09-06</span></h2>
+			<p>아파트 단지마다 플라스틱 [분쇄, 분류, 원료] 자동화 디바이스를 설치하여 해당 위치를 web으로 관리하는 시스템을 개발했습니다. react로 구현된 이 web을 통해  플라스틱의 원료화된 용량의 현 상태를 확인하고 일정 수준 이상이 되면 수거해 가는 스마트시티를 제시했습니다.</p>
                    <Grid container spacing={3}>
                        <Grid item>
                           <Grid container justify="center" >
@@ -86,12 +86,12 @@ export default class Timeline extends Component {
 
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-2">
+                      <div className="timeline-icon color-3">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>부산 울산 안전메이커톤  <span>2019-07-21</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>부산 울산 안전메이커톤(대상)  <span>2019-07-21</span></h2>
+			<p>공사현장을 여러 섹션으로 나눈 후 섹션마다 배치된 비콘을 통해 해당 섹션에 위치한 근로자를 파악합니다. 해당 비콘은 REST API를 통해 Django 서버로 근로자의 상태를 보고하고 비콘에 2명이상 존재 시 기계설비를 사용할 수 있는 시스템을 개발했습니다</p>
                    <Grid container spacing={3}>
                        <Grid item>
                           <Grid container justify="center" >
@@ -117,12 +117,12 @@ export default class Timeline extends Component {
 
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-2">
+                      <div className="timeline-icon color-3">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2>KCC2019 논문 구두 발표  <span>2019-06-27</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+			<p>JSON파일을 통해 전체 빅데이터 분석과정을 관리하고 항상 최단 시간에 데이터를 분석하는 시스템을 개발 후 논문 작성 및 발표했습니다.</p>
                    <Grid container spacing={3}>
                        <Grid item>
                           <Grid container justify="center" >
@@ -150,12 +150,13 @@ export default class Timeline extends Component {
 
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-3">
+                      <div className="timeline-icon color-4">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>제2회 Creative Space G AI & IoT 메이커톤<span>2018-12-23</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>제2회 Creative Space G AI & IoT 메이커톤(우수상) <span>2018-12-23</span></h2>
+			<p>매장 테이블에 부착한 마이크가 달린 라즈베리파이 부착합니다. 그러면 손님은 마이크를 통해 구두로 서비스를 요청하면 카운터와 주방에서 서비스를 문자로 확인할 수 있습니다.</p>
+
 	   	   <Grid container spacing={1}>
 		       <Grid item>
 		          <Grid container justify="center" >
@@ -174,34 +175,6 @@ export default class Timeline extends Component {
 		          </Grid>
 		       </Grid>
 		    </Grid>
-                      </div>
-                    </div>
-                  </article>
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
-                    <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-4">
-                        <i className="icon-pen2" />
-                      </div>
-                      <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
-                      </div>
-                    </div>
-                  </article>
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-                    <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-5">
-                        <i className="icon-pen2" />
-                      </div>
-                      <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
-                      </div>
-                    </div>
-                  </article>
-                  <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
-                    <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-none">
                       </div>
                     </div>
                   </article>
