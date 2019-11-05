@@ -24,8 +24,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>삼성전자 주니어소프트웨어 창작대회 멘토링 <span>2019-07-29 ~ 2019-10-25 </span></h2>
-			<p>중학생 멘티님들이 구상한 주제인 "시각 장애인분들을 위한 스마트 신발, C.E.O.S"를 구현하는데 도움을 주었습니다. 안드로이드에서  목적지까지의 방향을 서버로 부터 받기 위해 Django 서버 프레임워크에서 REST API를 구현하는 방법을 멘토링 했습니다.</p>
+                        <h2>삼성전자 주니어소프트웨어 창작대회 멘토링 <span>2019-07-29 ~ 2019-11-22 </span></h2>
+			<p>중학생 멘티님들이 구상한 주제인 "시각 장애인분들을 위한 스마트 신발, C.E.O.S"를 구현하는데 도움을 주었습니다. 안드로이드를 통해 서버의 경로 정보를 받기 위해, Django 서버에서 REST API를 구현하는 방법을 멘토링 했습니다.</p>
                    <Grid container spacing={3}>
                        <Grid item>
                           <Grid container justify="center" >

@@ -35,7 +35,7 @@ export default class About extends Component {
                     <ul>
 			<li>[연구실 프로젝트] Hadoop 클러스터링 자동화 시스템</li>
 			<li>[연구실 프로젝트] HPC container 성능 측정 자동화 시스템</li>
-                        <li>[연구실 프로젝트] 데이터 분석 자동화 시스템 <a href="www.naver.com">CHITAA: 동적 컨테이너 워크플로우 기반 빅데이터 분석 플랫폼 (kcc 2019)</a></li>
+                        <li>[연구실 프로젝트] 빅데이터 분석 자동화 시스템<br/> <a target="_blank" rel="noopener noreferrer" href="http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08763539">CHITAA: 동적 컨테이너 워크플로우 기반 빅데이터 분석 플랫폼 (kcc 2019)</a></li>
 		    </ul>
 		</div>
                 </div>
@@ -48,7 +48,7 @@ export default class About extends Component {
                 <div className="desc">
                     <h3>Django 서버 개발</h3>
                     <ul>
-                        <li>[인턴] 위치 기발 관광지 정보 제공 서버</li>
+                        <li>[인턴] 위치 기반 관광지 정보 제공 시스템</li>
                         <li>[해커톤] 공사현장 2인1조 모니터링 시스템</li>
                         <li>[멘토링] 삼성전자 주니어 소프트웨어 창작대회 중등팀 Django 교육 및 개발</li>
                     </ul>
