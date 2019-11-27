@@ -25,7 +25,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>삼성전자 주니어소프트웨어 창작대회 멘토링 <span>2019-07-29 ~ 2019-11-22 </span></h2>
-			<p>중학생 멘티님들이 구상한 주제인 "시각 장애인분들을 위한 스마트 신발, C.E.O.S"를 구현하는데 도움을 주었습니다. 안드로이드를 통해 서버의 경로 정보를 받기 위해, Django 서버에서 REST API를 구현하는 방법을 멘토링 했습니다.</p>
+			<p>중학생 멘티님들이 구상한 주제인 "시각 장애인분들을 위한 스마트 신발, C.E.O.S"를 구현하는데 도움을 주었습니다. 안드로이드에서 서버DB에 저장된 이동경로를 이용하기위해, Django 서버에서 REST API를 개발하는 방법을 멘토링 했습니다.</p>
                    <Grid container spacing={3}>
                        <Grid item>
                           <Grid container justify="center" >
@@ -155,7 +155,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>제2회 Creative Space G AI & IoT 메이커톤(우수상) <span>2018-12-23</span></h2>
-			<p>매장 테이블에 부착한 마이크가 달린 라즈베리파이 부착합니다. 그러면 손님은 마이크를 통해 구두로 서비스를 요청하면 카운터와 주방에서 서비스를 문자로 확인할 수 있습니다.</p>
+			<p>매장 테이블에  마이크가 달린 라즈베리파이 부착합니다. 해당 테이블의 손님은 마이크를 통해 구두로 서비스를 요청하고, 카운터와 주방에서는 구두의 서비스를 큐형태의 텍스트로 확인할 수 있습니다.</p>
 
 	   	   <Grid container spacing={1}>
 		       <Grid item>
