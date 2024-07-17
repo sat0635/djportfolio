@@ -65,7 +65,7 @@ export default class Timeline extends Component {
                           <Grid container justify="center" >
 
                              <Grid  item xs={4} >
-                                <img className="rotate180" src='images/award/wsce_award.jpg'  />
+                                <img className="award" src='images/award/wsce_award.jpg'  />
                              </Grid>
 
                              <Grid  item xs={4}>
